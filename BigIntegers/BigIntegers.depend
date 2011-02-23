@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1298395097 source:/home/praveen/Public/BigIntegers/BigInteger.cpp
+
+1298393753 /home/praveen/Public/BigIntegers/BigInteger.h
+	<iostream>
+	<cstring>
+	"stack.h"
+
+1298392924 /home/praveen/Public/BigIntegers/stack.h
+	<iostream>
+
+1298392703 source:/home/praveen/Public/BigIntegers/stack.cpp
+	"stack.h"
+
